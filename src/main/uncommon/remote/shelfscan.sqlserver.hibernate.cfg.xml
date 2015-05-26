@@ -16,7 +16,6 @@
 
         <mapping resource="edu/yale/sml/hbm/LocationCatalog.hbm.xml"></mapping>
         <mapping resource="edu/yale/sml/hbm/Admin.hbm.xml"></mapping>
-        <mapping resource="edu/yale/sml/hbm/app_messages.hbm.xml"></mapping>
         <mapping resource="edu/yale/sml/hbm/Shelving.hbm.xml"></mapping>
         <mapping resource="edu/yale/sml/hbm/FloorCatalog.hbm.xml"></mapping>
 
